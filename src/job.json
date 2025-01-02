@@ -1,0 +1,162 @@
+[
+    {
+      "id": 1,
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Front-End Developer to join our team in Boston, MA. The ideal candidate will have strong skills in HTML, CSS, and JavaScript...",
+      "salary": "$70 - $80K / Year",
+      "location": "Boston, MA"
+    },
+    {
+      "id": 2,
+      "title": "Front-End Engineer",
+      "type": "Remote",
+      "description": "Join our team as a Front-End Developer in sunny Miami, FL. We are looking for a motivated individual with a passion for UI/UX.",
+      "salary": "$70K - $80K / Year",
+      "location": "Miami, FL"
+    },
+    {
+      "id": 3,
+      "title": "React.js Developer",
+      "type": "Remote",
+      "description": "Are you passionate about front-end development? Join our team in vibrant Brooklyn, NY, and work on exciting projects that make a difference.",
+      "salary": "$70K - $80K / Year",
+      "location": "Brooklyn, NY"
+    },
+    {
+      "id": 4,
+      "title": "Full-Stack Developer",
+      "type": "Part-Time",
+      "description": "We are looking for a skilled Full-Stack Developer to work on cutting-edge applications in our office in Austin, TX.",
+      "salary": "$40 - $50K / Year",
+      "location": "Austin, TX"
+    },
+    {
+      "id": 5,
+      "title": "Software Engineer",
+      "type": "Full-Time",
+      "description": "Join our dynamic team as a Software Engineer in San Francisco, CA, and work on revolutionary projects.",
+      "salary": "$120K - $140K / Year",
+      "location": "San Francisco, CA"
+    },
+    {
+      "id": 6,
+      "title": "UI/UX Designer",
+      "type": "Contract",
+      "description": "We are hiring a creative UI/UX Designer to develop user-friendly designs for our new app. Work from anywhere!",
+      "salary": "$30 - $40 / Hour",
+      "location": "Remote"
+    },
+    {
+      "id": 7,
+      "title": "Junior Backend Developer",
+      "type": "Full-Time",
+      "description": "An exciting opportunity for a Junior Backend Developer to join a fast-growing company in Seattle, WA.",
+      "salary": "$60K - $70K / Year",
+      "location": "Seattle, WA"
+    },
+    {
+      "id": 8,
+      "title": "Python Developer",
+      "type": "Full-Time",
+      "description": "We are looking for a Python Developer to help build scalable backend services for our platform in Denver, CO.",
+      "salary": "$90K - $110K / Year",
+      "location": "Denver, CO"
+    },
+    {
+      "id": 9,
+      "title": "Cloud Engineer",
+      "type": "Full-Time",
+      "description": "Be a part of our cloud engineering team in Chicago, IL, and help develop innovative cloud solutions.",
+      "salary": "$100K - $120K / Year",
+      "location": "Chicago, IL"
+    },
+    {
+      "id": 10,
+      "title": "Technical Product Manager",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Technical Product Manager to oversee our new product launch in New York City, NY.",
+      "salary": "$110K - $130K / Year",
+      "location": "New York City, NY"
+    },
+    {
+      "id": 11,
+      "title": "DevOps Engineer",
+      "type": "Full-Time",
+      "description": "Join our team in Los Angeles, CA, as a DevOps Engineer and help us scale our infrastructure.",
+      "salary": "$95K - $115K / Year",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "id": 12,
+      "title": "Mobile App Developer",
+      "type": "Contract",
+      "description": "We are looking for a Mobile App Developer to work on our flagship app. The role is remote and flexible.",
+      "salary": "$50 - $60 / Hour",
+      "location": "Remote"
+    },
+    {
+      "id": 13,
+      "title": "Data Scientist",
+      "type": "Full-Time",
+      "description": "We are hiring a Data Scientist to analyze complex data and build predictive models in Atlanta, GA.",
+      "salary": "$110K - $140K / Year",
+      "location": "Atlanta, GA"
+    },
+    {
+      "id": 14,
+      "title": "Machine Learning Engineer",
+      "type": "Full-Time",
+      "description": "An exciting opportunity to work on cutting-edge ML projects with our team in Palo Alto, CA.",
+      "salary": "$130K - $150K / Year",
+      "location": "Palo Alto, CA"
+    },
+    {
+      "id": 15,
+      "title": "Game Developer",
+      "type": "Part-Time",
+      "description": "We are seeking a creative Game Developer to work on exciting gaming projects in Las Vegas, NV.",
+      "salary": "$80K - $100K / Year",
+      "location": "Las Vegas, NV"
+    },
+    {
+      "id": 16,
+      "title": "Blockchain Developer",
+      "type": "Full-Time",
+      "description": "Join our blockchain development team in Austin, TX, to work on decentralized applications.",
+      "salary": "$120K - $150K / Year",
+      "location": "Austin, TX"
+    },
+    {
+      "id": 17,
+      "title": "Cybersecurity Analyst",
+      "type": "Full-Time",
+      "description": "We are looking for a Cybersecurity Analyst to protect our systems and data in Washington, DC.",
+      "salary": "$100K - $120K / Year",
+      "location": "Washington, DC"
+    },
+    {
+      "id": 18,
+      "title": "Technical Writer",
+      "type": "Contract",
+      "description": "Join our team as a Technical Writer and create engaging documentation for our products. Work remotely!",
+      "salary": "$40 - $50 / Hour",
+      "location": "Remote"
+    },
+    {
+      "id": 19,
+      "title": "IT Support Specialist",
+      "type": "Full-Time",
+      "description": "We are hiring an IT Support Specialist to assist with technical issues in our Dallas, TX office.",
+      "salary": "$50K - $60K / Year",
+      "location": "Dallas, TX"
+    },
+    {
+      "id": 20,
+      "title": "AI Researcher",
+      "type": "Full-Time",
+      "description": "We are looking for an AI Researcher to work on cutting-edge AI technologies in Cambridge, MA.",
+      "salary": "$150K - $180K / Year",
+      "location": "Cambridge, MA"
+    }
+  ]
